@@ -48,9 +48,9 @@ body h1,h2,h3{
 .sidebarparent{
     display:none ;
     position: fixed;
-    top: 4.5rem;
+    top: 0;
     right: 0;
-    height: 80vh;
+    height: 100vh;
     width: 290px;
     z-index: 999;
     background-color: rgba(211, 211, 211, 0.185);
@@ -1495,7 +1495,7 @@ footer{
     }
 
     .d-right img{
-        scale: 0.6;
+        scale: 0.7;
     }
 }
     
